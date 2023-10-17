@@ -19,4 +19,4 @@ https://www.kaggle.com/competitions/playground-series-s3e23/overview
 ### ローカルリポジトリのオブジェクトをリモートリポジトリに送信して更新を行う
 - git push origin [ブランチ名]
 ### リモートブランチの変更をローカルブランチに取り込む
-- git pull origin main
+- git pull origin [ブランチ名]
