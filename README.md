@@ -9,9 +9,9 @@ https://www.kaggle.com/competitions/playground-series-s3e23/overview
 
 # コマンド一覧
 ### ブランチ移動
-- git checkout 
+- git checkout [ブランチ名]
 ### ブランチ作成 &移動
-- git checkout -b
+- git checkout -b　[ブランチ名]
 ### ステージエリアにファイルを追加する
 - git add .
 ### 追加・変更したファイルをGitに登録する
